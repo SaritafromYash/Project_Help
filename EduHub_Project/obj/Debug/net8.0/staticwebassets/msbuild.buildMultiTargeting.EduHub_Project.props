@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EduHub_Project.props" />
+</Project>

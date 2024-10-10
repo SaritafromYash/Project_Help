@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\material\\addmaterial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\material\\addmaterial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\course\\mycourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\course\\mycourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\services\\imaterialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:services\\imaterialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\repository\\materialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:repository\\materialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\user\\educatorindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\user\\educatorindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\shared\\_layouteducator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\shared\\_layouteducator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\user\\eductorlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\user\\eductorlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\student\\studentlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\student\\studentlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\student\\studentindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\student\\studentindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\shared\\_layoutstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\shared\\_layoutstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\models\\enrollmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:models\\enrollmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|d:\\yash_dotnetbatch1\\mvc_core\\mvc_eduhub\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC92EA0-C699-4ADC-8EEA-C8EB28A4B7C9}|MVC_EduHub.csproj|solutionrelative:views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddMaterial.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Material\\AddMaterial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Material\\AddMaterial.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Material\\AddMaterial.cshtml*",
+              "RelativeToolTip": "Views\\Material\\AddMaterial.cshtml*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:07:02.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMaterialService.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Services\\IMaterialService.cs",
+              "RelativeDocumentMoniker": "Services\\IMaterialService.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Services\\IMaterialService.cs",
+              "RelativeToolTip": "Services\\IMaterialService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:52:43.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaterialRepository.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Repository\\MaterialRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MaterialRepository.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Repository\\MaterialRepository.cs",
+              "RelativeToolTip": "Repository\\MaterialRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:52:16.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialController.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Controllers\\MaterialController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaterialController.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Controllers\\MaterialController.cs",
+              "RelativeToolTip": "Controllers\\MaterialController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:52:03.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCourses.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Course\\MyCourses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\MyCourses.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Course\\MyCourses.cshtml*",
+              "RelativeToolTip": "Views\\Course\\MyCourses.cshtml*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T13:45:56.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowEIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:49:49.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:05:53.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBAwBQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:11:19.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutEducator.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Shared\\_LayoutEducator.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutEducator.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Shared\\_LayoutEducator.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutEducator.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T12:04:08.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EducatorIndex.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\User\\EducatorIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\EducatorIndex.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\User\\EducatorIndex.cshtml",
+              "RelativeToolTip": "Views\\User\\EducatorIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T13:39:25.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CourseRepository.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "Repository\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:04:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Services\\ICourseService.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Services\\ICourseService.cs",
+              "RelativeToolTip": "Services\\ICourseService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:15:58.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:20:50.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T13:08:54.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EductorLogin.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\User\\EductorLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\EductorLogin.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\User\\EductorLogin.cshtml",
+              "RelativeToolTip": "Views\\User\\EductorLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T06:50:52.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T11:33:20.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentLogin.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Student\\StudentLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\StudentLogin.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Student\\StudentLogin.cshtml",
+              "RelativeToolTip": "Views\\Student\\StudentLogin.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:43:23.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA1wCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:40:08.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:22:14.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentIndex.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Student\\StudentIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\StudentIndex.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Student\\StudentIndex.cshtml",
+              "RelativeToolTip": "Views\\Student\\StudentIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:47:48.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA4wBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:33:04.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:53:53.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:28:05.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LayoutStudent.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Shared\\_LayoutStudent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutStudent.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\Shared\\_LayoutStudent.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutStudent.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAA2wCYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T12:05:04.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnrollmentViewModel.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Models\\EnrollmentViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\EnrollmentViewModel.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Models\\EnrollmentViewModel.cs",
+              "RelativeToolTip": "Models\\EnrollmentViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA1wAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:14:08.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T11:22:12.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:23:47.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T06:36:11.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\User\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\AddUser.cshtml",
+              "ToolTip": "D:\\Yash_DotNetBatch1\\MVC_Core\\MVC_EduHub\\Views\\User\\AddUser.cshtml",
+              "RelativeToolTip": "Views\\User\\AddUser.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T11:26:09.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

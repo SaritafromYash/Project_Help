@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|d:\\dxc_thirdbatchdemos\\fullstack_projects\\turfbooking\\turf_booking_system-main\\turfbookingapp\\dotnetapp\\testproject\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|solutionrelative:testproject\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|d:\\dxc_thirdbatchdemos\\fullstack_projects\\turfbooking\\turf_booking_system-main\\turfbookingapp\\dotnetapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|d:\\dxc_thirdbatchdemos\\fullstack_projects\\turfbooking\\turf_booking_system-main\\turfbookingapp\\dotnetapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|d:\\dxc_thirdbatchdemos\\fullstack_projects\\turfbooking\\turf_booking_system-main\\turfbookingapp\\dotnetapp\\views\\booking\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|solutionrelative:views\\booking\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|d:\\dxc_thirdbatchdemos\\fullstack_projects\\turfbooking\\turf_booking_system-main\\turfbookingapp\\dotnetapp\\views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|solutionrelative:views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C6CF3-7505-437B-97AF-488B4A1BFCAD}|TestProject\\TestProject.csproj|d:\\dxc_thirdbatchdemos\\fullstack_projects\\turfbooking\\turf_booking_system-main\\turfbookingapp\\dotnetapp\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C6CF3-7505-437B-97AF-488B4A1BFCAD}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|d:\\dxc_thirdbatchdemos\\fullstack_projects\\turfbooking\\turf_booking_system-main\\turfbookingapp\\dotnetapp\\exceptions\\turfbookingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940E8C2E-90AA-488B-BEF5-DD2F75B633B9}|dotnetapp.csproj|solutionrelative:exceptions\\turfbookingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T11:50:44.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:49:36.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\Views\\Booking\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Details.cshtml",
+              "ToolTip": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\Views\\Booking\\Details.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T11:45:57.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cshtml",
+              "DocumentMoniker": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\Views\\Booking\\Book.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Book.cshtml",
+              "ToolTip": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\Views\\Booking\\Book.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Book.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T11:45:28.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\TestProject\\Usings.cs",
+              "RelativeDocumentMoniker": "TestProject\\Usings.cs",
+              "ToolTip": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\TestProject\\Usings.cs",
+              "RelativeToolTip": "TestProject\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:44:11.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAUwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:40:04.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TurfBookingException.cs",
+              "DocumentMoniker": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\Exceptions\\TurfBookingException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\TurfBookingException.cs",
+              "ToolTip": "D:\\DXC_ThirdBatchDemos\\FullStack_Projects\\TurfBooking\\Turf_Booking_System-main\\TurfBookingApp\\dotnetapp\\Exceptions\\TurfBookingException.cs",
+              "RelativeToolTip": "Exceptions\\TurfBookingException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:39:51.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

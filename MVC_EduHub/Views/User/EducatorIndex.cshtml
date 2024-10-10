@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Educator Section";
+    Layout = "~/Views/Shared/_LayoutEducator.cshtml";
+}
+
+<h1>
+ 
+
+    Welcome Teacher: @TempData["Educator"];
+     
+        
+</h1>
+<h1>user Id @TempData["EducatorId"]</h1>
+@{
+    TempData.Keep();
+}
+<img src="/sarita.jpg" style="height:100px;width:100px"/>

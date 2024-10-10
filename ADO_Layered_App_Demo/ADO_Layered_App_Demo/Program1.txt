@@ -1,0 +1,100 @@
+﻿using ADO_Layered_App_Demo.Models;
+using ADO_Layered_App_Demo.Repository;
+using System.Data;
+using System.Data.SqlClient;
+namespace ADO_Layered_App_Demo
+{
+    internal class Program1
+    {
+        static void Main1(string[] args)
+        {
+           
+            UserRepository Repo = new UserRepository();
+            User user;
+            int ID;
+            int result;
+            DataSet ds = new DataSet(); 
+            int entry;
+            bool Continue=true;
+            char reply;
+            Console.WriteLine( "..........................................");
+          
+            while (Continue)
+            {
+                Console.WriteLine("           Press 0 to Exit\n            Press 1 For All Users\n       Press 2 to Add New User");
+                entry = Convert.ToInt32(Console.ReadLine());
+                switch (entry)
+                {
+                    case 0:
+                        Environment.Exit(0);
+                        break;
+                    case 1:
+                        Console.WriteLine("Show all Users..............");
+                        ds = Repo.GetAllTeachers();
+                        foreach (DataRow row in ds.Tables[0].Rows)
+                        {
+
+                            Console.WriteLine($"{row["userId"]} - {row["Username"]}");
+
+                        }
+                        break;
+                        case 2:
+                        Console.WriteLine(".......... Add New User.................");
+                        user=new User();
+                        Console.WriteLine("To add  new User enter username");
+
+                        Console.WriteLine("Enter user name : ");
+                        string name = Console.ReadLine();
+                        bool res = Repo.UserExists(name);
+
+                        if (res)
+                        {
+                            Console.WriteLine("User name is already exits ");
+                            break;
+                        }
+                        else
+                        {   user.Username =name;
+                            Console.WriteLine("Enter Password ");
+                            user.Password = Console.ReadLine();
+                            Console.WriteLine("Enter Email");
+                            user.Email = Console.ReadLine();
+                            Console.WriteLine("Enter Mobile No:");
+                            user.Mobilenumber = Console.ReadLine();
+                            Console.WriteLine("Enter User Role");
+                            user.UserRole = Console.ReadLine();
+                            Console.WriteLine("Enter Profile Image");
+                            user.ProfileImage = Console.ReadLine();
+                            result = Repo.AddUser(user);
+                            if (result > 0)
+                            { Console.WriteLine("Record added Successfully!");
+                                ID=Repo.GetNewUserId();
+                                Console.WriteLine("Please Note Your User Id is "+ID);
+                            }
+                        }
+                          break;
+                    case 3:
+                        Console.WriteLine(" ........... Edit Profile ........................");
+                        user=new User();
+                        Console.WriteLine("");
+
+                        break;
+                        
+
+                    default:
+                        Console.WriteLine("Invalid Key Pressed Try again!");
+                        break;
+
+                }
+                Console.WriteLine("Do you want to continue? Y/N");
+                reply=Convert.ToChar(Console.ReadLine());
+                if (reply=='y')
+                   Continue=true;
+                else
+                    Continue=false; 
+
+            }
+
+            Console.Read();
+        }
+    }
+}
